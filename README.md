@@ -6,7 +6,7 @@ This repository contains SOLIDWORKS CAD files for the board, pieces, clock, and 
 
 ## Folder Structure
 
-CAD files related to the board are available under [Solidworks CAD](./Solidworks CAD/). CAD files related to the detection PCBs are available under [PCB CAD](./PCB CAD/). Microcontroller code for the detection system is available under [STMDetection](./STMDetection/). Application code is available under [knightly-app](./knightly-app/) (separate repository).
+CAD files related to the board are available under [Solidworks CAD]("./Solidworks CAD/"). CAD files related to the detection PCBs are available under [PCB CAD]("./PCB CAD/"). Microcontroller code for the detection system is available under [STMDetection](./STMDetection/). Application code is available under [knightly-app](./knightly-app/) (separate repository).
 
 ## License
 
