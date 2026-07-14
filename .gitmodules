@@ -1,0 +1,3 @@
+[submodule "knightly-app"]
+	path = knightly-app
+	url = https://github.com/penton1753/knightly-app

@@ -1,0 +1,11 @@
+﻿"PawnHeight"= 2mm
+"MagDiam"= 12mm
+"MagThickness"= 3mm
+"KnightHeight"= 3mm
+"RookHeight"= 4mm
+"BishopHeight"= 5mm
+"QueenHeight"= 6mm
+"KingHeight"= 7mm
+"WeightOuterDiam"= 25mm
+"WeightInnerDiam"= "MagDiam" + 0.3mm
+"WeightHeight"= 9mm

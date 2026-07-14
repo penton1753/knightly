@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"3V3, 5V1",SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,2,Jumper_2_Open,
+"FPC1, FPC2",FPC-SMD_18P-P0.50_HDGC_0.5K-HX-18PWB,2,~,
+J3,PinHeader_1x01_P1.00mm_Vertical,1,Conn_01x01_Pin,
+"J4, J5",PinSocket_1x20_P2.54mm_Vertical,2,Conn_01x20,
+"U2, U3",SOP65P780X200-24N,2,CD74HC4067SM96E4,
+"VBAT1, VP1, VREF1",PinHeader_1x01_P2.54mm_Vertical,3,Conn_01x01_Pin,
